@@ -18,14 +18,14 @@ So whenever there is no one at home it will act as security.
 
 #### Hardware
 
--Arduino Uno R3
--MPU6050 Accelerometer + Gyroscope Module
--Ultrasonic Sensor Module
--PCA 9685: Servo Driver Module
--HC-05 Bluetooth Module
--MG90S and SG90 servo motor
+- Arduino Uno R3
+- MPU6050 Accelerometer + Gyroscope Module
+- Ultrasonic Sensor Module
+- PCA 9685: Servo Driver Module
+- HC-05 Bluetooth Module
+- MG90S and SG90 servo motor
 - 3D models
--7.4V LI-ION Battery
+- 7.4V LI-ION Battery
 
 ### software
 - Arduino ide
