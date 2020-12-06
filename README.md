@@ -28,7 +28,10 @@ So whenever there is no one at home it will act as security.
 - 7.4V LI-ION Battery
 
 ![alt text](https://user-images.githubusercontent.com/60437235/101275137-58a38e00-37c9-11eb-859b-ab21598ffb94.jpg)
-
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
 ### software
 - Arduino ide
 - auto desk
