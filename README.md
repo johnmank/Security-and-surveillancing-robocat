@@ -31,12 +31,14 @@ The advantage of security and surveillencing robocat is that the device with aut
 - MG90S and SG90 servo motor
 - 3D models
 - 7.4V LI-ION Battery
+- Raspberry pi
 
 ![alt text](https://user-images.githubusercontent.com/60437235/101275137-58a38e00-37c9-11eb-859b-ab21598ffb94.jpg)
 ![alt text](https://user-images.githubusercontent.com/60437235/101275141-5c371500-37c9-11eb-8503-da035506c178.jpg)
 ![alt text](https://user-images.githubusercontent.com/60437235/101275146-65c07d00-37c9-11eb-8780-4fd0c7a326b4.jpg)
 ![alt text](https://user-images.githubusercontent.com/60437235/101275150-68bb6d80-37c9-11eb-91f7-47433cfbacaa.jpg)
 ![alt text](https://user-images.githubusercontent.com/60437235/103404625-4b847f80-4b7a-11eb-89dd-e4cf716aff35.jpg)
+![alt text](
 ### software
 - Arduino ide
 - auto desk
