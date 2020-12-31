@@ -3,7 +3,7 @@
 ## S5 third year design project
 ## ELECTRONICS AND INSTRUMENTATION ENGINEERING DEPARTMENT(FISAT)
 
-- MENTOR: SREEVIDYA P & Beenu Riju
+- MENTOR: Sreevidya P & Beenu Riju
 - TEAM:
 1. John paul mankadiyan
 2. Abhishek santhosh
